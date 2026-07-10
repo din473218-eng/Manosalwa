@@ -1,0 +1,6 @@
+{
+  "name": "MaNoSaLwA Bakery",
+  "description": "A premium, elegant, and responsive digital storefront for MaNoSaLwA, showcasing artisanal breads, handcrafted pastries, luxurious cakes, and homemade bakery delicacies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
